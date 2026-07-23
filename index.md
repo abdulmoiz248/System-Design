@@ -24,13 +24,14 @@ Full notes: [notes/phase-0-interview-framework.md](notes/phase-0-interview-frame
 ---
 
 ## Phase 1 — Foundations (the "bottom" layer)
-- [ ] 1.1 How computers talk: client-server model, IP, TCP vs UDP, sockets
-- [ ] 1.2 HTTP/HTTPS deep dive: methods, status codes, headers, TLS handshake, HTTP/2 vs HTTP/3
-- [ ] 1.3 DNS: how resolution works, TTLs, anycast
-- [ ] 1.4 Vertical vs horizontal scaling — what breaks first when you scale up vs out
-- [ ] 1.5 Latency numbers every engineer should know (memory vs disk vs network vs cross-region)
-- [ ] 1.6 Concurrency basics: processes, threads, async I/O (why this matters for servers)
-- [ ] 1.7 Protocol zoo: HTTP long-polling vs WebSockets vs SSE; AMQP (message brokers); SMTP/IMAP/POP3 (email); MQTT (IoT pub-sub); WebRTC (P2P real-time); RPC (remote procedure calls); FTP vs SSH (file transfer & remote access)
+Full notes: [notes/phase-1-foundations.md](notes/phase-1-foundations.md)
+- [x] 1.1 How computers talk: client-server model, IP, TCP vs UDP, sockets
+- [x] 1.2 HTTP/HTTPS deep dive: methods, status codes, headers, TLS handshake, HTTP/2 vs HTTP/3
+- [x] 1.3 DNS: how resolution works, TTLs, anycast
+- [x] 1.4 Vertical vs horizontal scaling — what breaks first when you scale up vs out
+- [x] 1.5 Latency numbers every engineer should know (memory vs disk vs network vs cross-region)
+- [x] 1.6 Concurrency basics: processes, threads, async I/O (why this matters for servers)
+- [x] 1.7 Protocol zoo: HTTP long-polling vs WebSockets vs SSE; AMQP (message brokers); SMTP/IMAP/POP3 (email); MQTT (IoT pub-sub); WebRTC (P2P real-time); RPC (remote procedure calls); FTP vs SSH (file transfer & remote access)
 
 ---
 
@@ -132,5 +133,5 @@ Work through each using the Phase 0 framework. Order is easy → hard.
 ---
 
 ## Notes
-- Current focus: Phase 1 — Foundations
+- Current focus: Phase 2 — Data Models & Storage Engines
 - Last updated: 2026-07-22
