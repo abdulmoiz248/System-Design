@@ -5,6 +5,8 @@
 > **Reference book:** *Designing Data-Intensive Applications, 2nd Ed.* (Kleppmann) — mapped below as **[DDIA]**. Chapters noted where relevant.
 >
 > **How to use this in future chats:** Say something like "teach me topic X from index.md" or "quiz me on Phase 2" or "I finished 1.3, mark it done and give me 1.4." I will track progress here.
+>
+> **Notes convention:** each phase gets exactly **one** consolidated file in `notes/` (e.g. `notes/phase-1-foundations.md`) — never split a phase across multiple files. Every subtopic in that file must be explained in real depth (mechanics, internals, concrete tools/examples) — no one-line "X is used for Y" summaries.
 
 ## Progress Legend
 - [ ] Not started
